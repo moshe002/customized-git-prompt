@@ -4,7 +4,7 @@ My customized git-prompt.sh. Sharing it to the public because why not.
 # How to apply bash script
 Go to path: C:\Program Files\Git\etc\profile.d</b> and look for the <i>git-prompt.sh</i> file.
 <br>
-Copy the contents of the git-prompt.sh file in the repository and paste into your <b>own</b> git-prompt.sh file.
+Copy the contents of the customized-git-prompt.sh file in the repository and paste into your <b>own</b> git-prompt.sh file.
 <br>
 Save as admin and changes should reflect.
 <br>
